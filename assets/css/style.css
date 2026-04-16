@@ -63,3 +63,16 @@ footer {
 .active {
     border-bottom: 1px solid #a3a3a3;
 }
+
+/* Navbar styles with toggle */
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    align-content: baseline;
+    padding: 0 1em;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+}
