@@ -55,6 +55,13 @@ main {
     margin-top: 47px;
 }
 
+/* jhero section sty;es */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero.webp") no-repeat center center/cover;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
